@@ -9,17 +9,17 @@ Para clonar este repositorio, asegúrese de tener Git instalado en su computador
 
 git clone https://github.com/fiermarin2/image-upload.git
 
-### Instalación
+## Instalación
 
 Para instalar las dependencias necesarias para ejecutar la aplicación, debes asegurarte de tener Node.js y NPM instalados en tu computadora. Luego, ve al directorio del proyecto y ejecuta el siguiente comando en tu terminal:
 
-npm install
+### npm install
 
-### Uso
+## Uso
 
 Para ejecutar la aplicación, ve al directorio del proyecto y ejecuta el siguiente comando en tu terminal:
 
-npm start
+### npm start
 
 Esto iniciará la aplicación y podrás acceder a ella en tu navegador web ingresando http://localhost:3000 en la barra de direcciones.
 
