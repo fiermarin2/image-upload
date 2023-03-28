@@ -7,7 +7,7 @@ Este es un proyecto de aplicación web que permite a los usuarios cargar imágen
 
 Para clonar este repositorio, asegúrese de tener Git instalado en su computadora y ejecute el siguiente comando en su terminal:
 
-git clone https://github.com/fiermarin2/image-upload.git
+### git clone https://github.com/fiermarin2/image-upload.git
 
 ## Instalación
 
